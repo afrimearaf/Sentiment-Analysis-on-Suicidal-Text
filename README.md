@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Suicidal-Text
+# Sentiment Analysis on Suicidal-Text
 Detection of Suicide Ideation in Social Media Forums Using Machine Learning and Deep Learning
 
 
